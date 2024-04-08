@@ -1,13 +1,14 @@
 {
-  "name": "nodebb-plugin-sso-oauth2-multiple",
+  "name": "nodebb-plugin-sso-oauth2-ntq",
   "version": "1.4.0",
-  "description": "NodeBB Multiple OAuth2 SSO",
+  "description": "NodeBB OAuth2 SSO NTQ",
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NodeBB/nodebb-plugin-sso-oauth2-multiple"
+    "url": "https://github.com/mrkey94/nodebb-plugin-sso-oauth2-ntq"
   },
   "keywords": [
+    "ntq",
     "nodebb",
     "plugin",
     "oauth",
@@ -18,12 +19,12 @@
     "registration"
   ],
   "author": {
-    "name": "Julian Lam",
-    "email": "julian@nodebb.org"
+    "name": "Trung Nguyen",
+    "email": "trung.nguyen@ntq-solution.com.vn"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NodeBB/nodebb-plugin-sso-oauth2-multiple/issues"
+    "url": "https://github.com/mrkey94/nodebb-plugin-sso-oauth2-ntq/issues"
   },
   "readme": "",
   "readmeFilename": "README.md",
